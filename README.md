@@ -10,15 +10,15 @@ Let's take a case where an advertiser on the platform (DeltaX) would like to est
 Imagine it is the first day of March and you are given the past performance data of ads between 1st August to 28th Feb. You are now tasked to predict an ad's future performance (revenue) between March 1st and March 15th. Well, it is now time for you to put on your problem-solving hats and start playing with the data provided under the "data" section.
 
 ### Required Modules
-*Numpy
-*pandas
-*Seaborn
-*Matplotlib.pyplot
-*tree
-*GridSearchCV
-*preprocessing
-*r2_score, mean_squared_error
-*Image, pydotplus
+* Numpy
+* pandas
+* Seaborn
+* Matplotlib.pyplot
+* tree
+* GridSearchCV
+* preprocessing
+* r2_score, mean_squared_error
+* Image, pydotplus
 
 ### Data Description
 * date: the date on which the ad was made live

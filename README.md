@@ -32,3 +32,8 @@ Imagine it is the first day of March and you are given the past performance data
 * revenue: revenue generated from the ad
 
 Our goal is to predict the revenue from Test data with a low RMSE score.
+
+### Key Features
+* Got RMSE value 106.65 for the Test Data
+* Implemented Regression tree and optimized using GridSearchCv Algorithm, Code was clearly Documented.
+* With Image Module we can clearly visualize tree, How it is divided, number of branches..etc
